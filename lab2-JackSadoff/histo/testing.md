@@ -1,0 +1,1 @@
+For testing histo.c, I copied all of the inputs that were used in the assignment sheet to try and mimic the output and then did repeated those tests adding a bunch of random characters and negative integers to ensure that those would not change the output. The use of ````atoi()```` and the if statement surrounding count ensured that only valid inputs would change the histogram. 
